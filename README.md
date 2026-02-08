@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Working student with 4+ years of coding experiance, passionate about building smart, efficient solutions. Always exploring the intersection of code and creativity to push the boundaries of innovation.
+Working student with 5+ years of coding experiance, passionate about building smart, efficient solutions. Always exploring the intersection of code and creativity to push the boundaries of innovation.
 
 * 🌍  I'm based in Fort Lauderdale, Florida
 * ✉️  You can contact me at [jakeparis175@gmail.com](mailto:jakeparis175@gmail.com)
-* 🧠  I'm currently learning Streamlit 🔥
+* 🧠  I'm currently Mastering React 🔥
 * 🤝  I'm open to collaborating on Big Projects
 * ⚡  I am a gym rat outside of the office.
 
