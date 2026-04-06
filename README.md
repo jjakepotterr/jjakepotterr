@@ -10,6 +10,9 @@ I am a senior at the Florida Atlantic College of Engineering and Computer Scienc
 - 🤝 Open to collaborating on big projects
 - ⚡ Gym rat outside of the office
 
+<img align="right" src="https://github.com/user-attachments/assets/dcfa4ecf-0807-43f5-886c-2ab289b81613" width="150" alt="Jake Potter" />
+
+
 <a href="https://github.com/jjakepotterr">
 <img src="https://img.shields.io/github/followers/jjakepotterr?label=Followers&style=for-the-badge&color=ef4444" />
 </a>
