@@ -3,8 +3,9 @@
 ## Software Developer
 
 I am a senior at the Florida Atlantic College of Engineering and Computer Science with 5+ years experiance. I build applications that turn messy inputs into usable, structured outputs. 
-<img align="right" src="https://github.com/user-attachments/assets/dcfa4ecf-0807-43f5-886c-2ab289b81613" width="150" alt="Jake Potter" />
 
+<img align="right" src="https://github.com/user-attachments/assets/dcfa4ecf-0807-43f5-886c-2ab289b81613" width="150" alt="Jake Potter" />
+<img align="right" a href="https://your-portfolio.com">🌐 Portfolio</a> &nbsp;|&nbsp;/>
 - 🌍 I'm based in Miami, Florida
 - ✉️ You can contact me at **jakeparis175@gmail.com**
 - 🧠 Currently mastering **React.js**
